@@ -6,7 +6,6 @@ class App {
         Scanner scanner = new Scanner(System.in);
         int nmr, qtd;
         int maior = 0;
-        int maiorS = 0;
 
         int rep = 0;
         System.out.print("Digite a quantidade de número que deseja inserir: ");
